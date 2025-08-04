@@ -1,10 +1,12 @@
 theme: jekyll-theme-minimal
-title: Peishi Liu - Personal Website
-description: Welcome to Peishi Liu's personal website! Robotics Engineer & Mechatronics Master Student
+title: "Peishi Liu - Robotics Engineer & Mechatronics Expert"
+description: "Personal website of Peishi Liu, Robotics Engineer at Bosch and Mechatronics Master student at TUM. Specializing in ROS2, MoveIt, Isaac Sim, and AI technologies."
+url: "https://from1tomax.github.io"
+baseurl: ""
 
 # Personal information
 author: Peishi Liu
-email: your.email@example.com
+email: peishi.liu@tum.de
 location: Munich, Germany
 
 # Social links
@@ -17,5 +19,15 @@ google_analytics: # Add your Google Analytics ID here if needed
 
 # SEO settings
 lang: en-US
+keywords: "Peishi Liu, Robotics Engineer, Mechatronics, TUM, Bosch, ROS2, MoveIt, Isaac Sim, AI, Machine Learning, Computer Vision"
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO optimization
+seo:
+  type: Person
+  name: Peishi Liu
+  links:
+    - https://github.com/from1tomax
+    - https://linkedin.com/in/peishi-liu
