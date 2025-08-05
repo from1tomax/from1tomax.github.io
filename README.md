@@ -1,41 +1,47 @@
-# 👋 Hi, I'm Peishi Liu
+# Peishi Liu - Personal Website
 
-Welcome to Peishi Liu's personal website! I'm a passionate robotics engineer and mechatronics enthusiast with a focus on cutting-edge automation and AI technologies.
+Welcome to **Peishi Liu**'s official personal website repository! This site showcases **Peishi Liu**'s work as a robotics engineer and mechatronics expert.
 
-## 🎓 About Peishi Liu
-- **Education:** Master in Mechatronics and Robotics @ TUM (Technical University of Munich)
-- **Current Role:** Robotics Intern @ Bosch
-- **Interests:** MoveIt, Isaac Sim, ROS2, Deep Learning, Computer Vision
-- **Location:** Munich, Germany
+## About Peishi Liu
 
-## 🛠 Featured Projects by Peishi Liu
-- [Whole body impedance controller](https://github.com/from1tomax/Darko_Impedance_Controller) - Based on DARKO Mobile Manipulator
-- Advanced robotics simulations using Isaac Sim and ROS2
-- Computer vision applications for industrial automation
+**Peishi Liu** is a robotics engineer currently working at Bosch and pursuing a Master's degree in Mechatronics and Robotics at the Technical University of Munich (TUM).
 
-## 🚀 Skills & Technologies
-- **Programming:** Python, C++, MATLAB
-- **Robotics:** ROS2, MoveIt, Isaac Sim, Gazebo, Robot Operating System
-- **AI/ML:** TensorFlow, PyTorch, OpenCV, Machine Learning, Deep Learning
-- **Tools:** Git, Docker, Linux, Version Control
-- **Specialties:** Impedance Control, Mobile Manipulation, Autonomous Systems
+### Quick Facts about Peishi Liu:
+- 🤖 **Robotics Engineer** at Bosch
+- 🎓 **Master's Student** at TUM (Technical University of Munich)
+- 📍 **Location**: Munich, Germany
+- � **Expertise**: ROS2, MoveIt, Isaac Sim, AI, Machine Learning
+- 🔗 **Website**: [https://from1tomax.github.io](https://from1tomax.github.io)
 
-## 📈 Professional Experience
-**Robotics Intern at Bosch** - Working on cutting-edge automation solutions and robotics applications in industrial settings.
+## Website Features
 
-**Research at TUM** - Developing advanced mechatronics systems and exploring the intersection of AI and robotics.
+This website includes:
+- **Professional Portfolio**: Showcasing Peishi Liu's robotics projects
+- **Technical Blog**: Insights into robotics and automation
+- **Research Documentation**: Academic and industry collaborations
+- **Contact Information**: Ways to connect with Peishi Liu
 
-## 🎯 Research Interests
-- Whole-body control for mobile manipulators
-- Human-robot interaction and collaboration
-- AI-driven robotics solutions
-- Industrial automation and smart manufacturing
+## Technologies Used
 
-## 📫 Contact Peishi Liu
-- **Email:** peishi.liu@tum.de
-- **LinkedIn:** [linkedin.com/in/peishi-liu](https://linkedin.com/in/peishi-liu)
-- **GitHub:** [github.com/from1tomax](https://github.com/from1tomax)
-- **Location:** Munich, Germany
+- **GitHub Pages**: Hosting platform
+- **Jekyll**: Static site generator
+- **SEO Optimization**: For Google search visibility
+- **Structured Data**: Enhanced search results
+
+## Find Peishi Liu Online
+
+- **Website**: [https://from1tomax.github.io](https://from1tomax.github.io)
+- **GitHub**: [https://github.com/from1tomax](https://github.com/from1tomax)
+- **LinkedIn**: [https://linkedin.com/in/peishi-liu](https://linkedin.com/in/peishi-liu)
+- **Email**: peishi.liu@tum.de
+
+## Google Search
+
+To find **Peishi Liu** on Google, search for:
+- "Peishi Liu robotics engineer"
+- "Peishi Liu TUM Bosch"
+- "Peishi Liu Munich Germany"
 
 ---
-*Peishi Liu's personal website - Robotics Engineer & Mechatronics Expert | Powered by GitHub Pages and Jekyll*
+
+**Keywords**: Peishi Liu, Robotics Engineer, Mechatronics, TUM, Bosch, ROS2, MoveIt, Isaac Sim, Munich, Germany
