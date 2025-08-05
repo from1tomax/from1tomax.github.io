@@ -1,0 +1,72 @@
+---
+layout: null
+---
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Peishi Liu",
+  "alternateName": ["刘培石", "Pei-shi Liu"],
+  "description": "Robotics Engineer and Mechatronics Expert specializing in ROS2, MoveIt, Isaac Sim, and AI technologies",
+  "url": "{{ site.url }}",
+  "image": "{{ site.url }}/assets/images/peishi-liu-profile.jpg",
+  "sameAs": [
+    "https://github.com/from1tomax",
+    "https://linkedin.com/in/peishi-liu",
+    "{{ site.url }}"
+  ],
+  "jobTitle": "Robotics Engineer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Bosch",
+    "url": "https://www.bosch.com"
+  },
+  "alumniOf": {
+    "@type": "Organization",
+    "name": "Technical University of Munich",
+    "alternateName": "TUM",
+    "url": "https://www.tum.de"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Munich",
+    "addressCountry": "Germany"
+  },
+  "email": "peishi.liu@tum.de",
+  "knowsAbout": [
+    "Robotics Engineering",
+    "Mechatronics",
+    "ROS2",
+    "MoveIt",
+    "Isaac Sim",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Computer Vision",
+    "Industrial Automation",
+    "Mobile Manipulation",
+    "Impedance Control",
+    "Python Programming",
+    "C++ Programming",
+    "MATLAB",
+    "TensorFlow",
+    "PyTorch",
+    "OpenCV"
+  ],
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Robotics Engineer",
+    "occupationLocation": {
+      "@type": "City",
+      "name": "Munich, Germany"
+    },
+    "skills": [
+      "Robotics System Design",
+      "AI Integration",
+      "Industrial Automation",
+      "Research and Development"
+    ]
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}"
+  }
+}
