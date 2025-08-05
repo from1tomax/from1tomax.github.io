@@ -1,18 +1,16 @@
----
-layout: null
----
+
 {
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Peishi Liu",
   "alternateName": ["刘培石", "Pei-shi Liu"],
   "description": "Robotics Engineer and Mechatronics Expert specializing in ROS2, MoveIt, Isaac Sim, and AI technologies",
-  "url": "{{ site.url }}",
-  "image": "{{ site.url }}/assets/images/peishi-liu-profile.jpg",
+  "url": "https://from1tomax.github.io",
+  "image": "https://from1tomax.github.io/assets/images/peishi-liu-profile.jpg",
   "sameAs": [
     "https://github.com/from1tomax",
     "https://linkedin.com/in/peishi-liu",
-    "{{ site.url }}"
+    "https://from1tomax.github.io"
   ],
   "jobTitle": "Robotics Engineer",
   "worksFor": {
@@ -67,6 +65,6 @@ layout: null
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "{{ site.url }}"
+    "@id": "https://from1tomax.github.io"
   }
 }
