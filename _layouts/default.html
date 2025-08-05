@@ -29,20 +29,66 @@
       "@context": "https://schema.org",
       "@type": "Person",
       "name": "{{ site.author }}",
+      "alternateName": ["刘培石", "Pei-shi Liu", "Peishi Liu Robotics Engineer"],
+      "description": "{{ site.description }}",
       "url": "{{ site.url }}",
-      "jobTitle": "Robotics Engineer",
-      "worksFor": {
-        "@type": "Organization",
-        "name": "Bosch"
-      },
-      "alumniOf": {
-        "@type": "Organization",
-        "name": "Technical University of Munich"
-      },
+      "image": "{{ site.url }}/assets/images/peishi-liu-profile.jpg",
       "sameAs": [
         "https://github.com/{{ site.github_username }}",
-        "https://linkedin.com/in/{{ site.linkedin_username }}"
-      ]
+        "https://linkedin.com/in/{{ site.linkedin_username }}",
+        "{{ site.url }}"
+      ],
+      "jobTitle": ["Robotics Engineer", "Mechatronics Expert", "Research Assistant"],
+      "worksFor": [
+        {
+          "@type": "Organization",
+          "name": "Bosch",
+          "url": "https://www.bosch.com"
+        },
+        {
+          "@type": "Organization",
+          "name": "Technical University of Munich",
+          "alternateName": "TUM",
+          "url": "https://www.tum.de"
+        }
+      ],
+      "alumniOf": {
+        "@type": "Organization",
+        "name": "Technical University of Munich",
+        "alternateName": "TUM",
+        "url": "https://www.tum.de"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "{{ site.location | split: ', ' | first }}",
+        "addressCountry": "{{ site.location | split: ', ' | last }}"
+      },
+      "email": "{{ site.email }}",
+      "knowsAbout": [
+        "Robotics Engineering",
+        "Mechatronics Systems", 
+        "ROS2 Robot Operating System",
+        "MoveIt Motion Planning",
+        "Isaac Sim Robotics Simulation",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Computer Vision",
+        "Industrial Automation",
+        "Mobile Manipulation",
+        "Impedance Control"
+      ],
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Robotics Engineer and Researcher",
+        "occupationLocation": {
+          "@type": "City",
+          "name": "Munich, Germany"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ site.url }}"
+      }
     }
     </script>
 

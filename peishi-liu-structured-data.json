@@ -1,0 +1,102 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Peishi Liu",
+  "alternateName": ["刘培石", "Pei-shi Liu", "Peishi Liu Robotics Engineer"],
+  "description": "Robotics Engineer and Mechatronics Expert specializing in ROS2, MoveIt, Isaac Sim, and AI technologies at TUM and Bosch",
+  "url": "https://from1tomax.github.io",
+  "sameAs": [
+    "https://github.com/from1tomax",
+    "https://linkedin.com/in/peishi-liu",
+    "https://from1tomax.github.io"
+  ],
+  "jobTitle": ["Robotics Engineer", "Mechatronics Expert", "Research Assistant"],
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "name": "Bosch",
+      "url": "https://www.bosch.com",
+      "description": "Robotics Intern at Bosch AG"
+    },
+    {
+      "@type": "Organization", 
+      "name": "Technical University of Munich",
+      "alternateName": "TUM",
+      "url": "https://www.tum.de",
+      "description": "Master's Student in Mechatronics and Robotics"
+    }
+  ],
+  "alumniOf": {
+    "@type": "Organization",
+    "name": "Technical University of Munich",
+    "alternateName": "TUM",
+    "url": "https://www.tum.de"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Munich",
+    "addressRegion": "Bavaria", 
+    "addressCountry": "Germany"
+  },
+  "email": "peishi.liu@tum.de",
+  "knowsAbout": [
+    "Robotics Engineering",
+    "Mechatronics Systems",
+    "ROS2 Robot Operating System", 
+    "MoveIt Motion Planning",
+    "Isaac Sim Robotics Simulation",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Deep Learning",
+    "Computer Vision",
+    "Industrial Automation",
+    "Mobile Manipulation",
+    "Impedance Control",
+    "Whole-body Control",
+    "Python Programming",
+    "C++ Programming", 
+    "MATLAB Programming",
+    "TensorFlow",
+    "PyTorch",
+    "OpenCV",
+    "Gazebo Simulation",
+    "Git Version Control",
+    "Docker Containerization",
+    "Linux Systems"
+  ],
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Robotics Engineer and Researcher",
+    "occupationLocation": {
+      "@type": "City",
+      "name": "Munich",
+      "addressCountry": "Germany"
+    },
+    "skills": [
+      "Advanced Robotics System Design",
+      "AI Integration in Robotics",
+      "Industrial Automation Solutions", 
+      "Research and Development",
+      "Mobile Manipulator Control",
+      "Human-Robot Interaction"
+    ],
+    "responsibilities": [
+      "Developing cutting-edge automation solutions",
+      "Implementing AI-driven robotics systems",
+      "Conducting advanced robotics research",
+      "Collaborating on Industry 4.0 projects"
+    ]
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://from1tomax.github.io"
+  },
+  "nationality": "Chinese",
+  "workLocation": "Munich, Germany",
+  "seeks": [
+    "Robotics Engineering Opportunities",
+    "Research Collaborations", 
+    "AI and Automation Projects",
+    "Industry Partnerships"
+  ]
+}
