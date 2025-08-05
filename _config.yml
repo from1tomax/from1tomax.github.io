@@ -17,12 +17,20 @@ linkedin_username: peishi-liu
 show_downloads: false
 google_analytics: # Add your Google Analytics ID here if needed
 
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - contact.md
+
 # SEO settings
 lang: en-US
-keywords: "Peishi Liu, Robotics Engineer, Mechatronics, TUM, Bosch, ROS2, MoveIt, Isaac Sim, AI, Machine Learning, Computer Vision"
+keywords: "Peishi Liu, Robotics Engineer, Mechatronics, TUM, Bosch, ROS2, MoveIt, Isaac Sim, AI, Machine Learning, Computer Vision, Munich, Germany, Automation, Industrial Robotics, Mobile Manipulation, Impedance Control"
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
 
 # SEO optimization
 seo:
@@ -34,3 +42,17 @@ seo:
 
 # Google Search Console verification
 google_site_verification: "616ca0745e129841"
+
+# Additional SEO settings
+twitter:
+  username: # Add if you have Twitter
+  card: summary
+
+facebook:
+  app_id: # Add if you have Facebook
+  
+social:
+  name: Peishi Liu
+  links:
+    - https://github.com/from1tomax
+    - https://linkedin.com/in/peishi-liu
